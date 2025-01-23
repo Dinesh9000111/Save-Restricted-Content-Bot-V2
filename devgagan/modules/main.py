@@ -224,7 +224,7 @@ async def batch_link(_, message):
         return
 
  
-    join_button = InlineKeyboardButton("Join Channel", url="https://t.me/team_spy_pro")
+    join_button = InlineKeyboardButton("Join Channel", url="https://t.me/PaidCourseMegaLinkss")
     keyboard = InlineKeyboardMarkup([[join_button]])
 
     
